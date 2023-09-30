@@ -24,12 +24,12 @@ function hi (a, b) {
     
     var sum  = 0;
 sum = a-b; 
+console.log({sum})
 return sum;
 
 
 }
 //hi(20,1);
-console.log({sum})
 
 module.exports = hi;
 
